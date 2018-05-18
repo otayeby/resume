@@ -21,6 +21,7 @@ B.S. in Communications & Electronics Engineering
 ## EXPERIENCE
 Research Assistant: University of North Carolina at Charlotte, NC	August 2014 – present
 Personalized Curiosity Engine: used: Python, Linux
+
 •	Aim: personalize user’s curiosity in recommendation systems
 •	Applied a Conditional Random Field model to extract ingredients from recipes dataset
 •	Applied Naïve Bayes Classification to tag recipes with the most relevant cuisines
